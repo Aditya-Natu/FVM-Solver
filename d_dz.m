@@ -1,3 +1,5 @@
+%Code developed by Aditya Natu%
+
 function du_dz = d_dz(U,dZ)
 
 U_N = U(2:end-2,:);
