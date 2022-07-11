@@ -1,4 +1,4 @@
-%Code developed by Aditya Natu%
+%Developed and tested by Aditya Natu%
 
 function du_dz = d_dz(U,dZ)
 
