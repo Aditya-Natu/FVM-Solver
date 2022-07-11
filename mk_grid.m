@@ -1,4 +1,4 @@
-%Code developed by Aditya Natu%
+%Developed and tested by Aditya Natu%
 
 function [Y, Z, dY, dZ, Y_ext, Z_ext] = mk_grid(y,z)
 
