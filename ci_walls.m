@@ -1,3 +1,5 @@
+% Code developed by Aditya Natu%
+
     function sol = ci_walls(a,b,n,r)
 
     if r == 1
