@@ -1,3 +1,5 @@
+%Code developed by Aditya Natu%
+
 function [sol] = d2_dy2(T,dY)
 
 U_w = T(:,1:end-2);
