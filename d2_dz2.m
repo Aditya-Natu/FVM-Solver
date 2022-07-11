@@ -1,3 +1,5 @@
+%Code developed by Aditya Natu%
+
 function [sol] = d2_dz2(T,dZ)
 
 U_n = T(1:end-2,:);
