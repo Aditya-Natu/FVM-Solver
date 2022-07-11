@@ -1,4 +1,4 @@
-%Code developed by Aditya Natu%
+%Developed and tested by Aditya Natu%
 
 function [U_ext] = solve_eqn(Cy,Cz,Dy,Dz,Prp,RHS,dY,dZ,NB,EB,WB,SB)
 
