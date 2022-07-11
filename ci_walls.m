@@ -1,4 +1,4 @@
-% Code developed by Aditya Natu%
+%Developed and tested by Aditya Natu%
 
     function sol = ci_walls(a,b,n,r)
 
