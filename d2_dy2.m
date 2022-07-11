@@ -1,4 +1,4 @@
-%Code developed by Aditya Natu%
+%Developed and tested by Aditya Natu%
 
 function [sol] = d2_dy2(T,dY)
 
